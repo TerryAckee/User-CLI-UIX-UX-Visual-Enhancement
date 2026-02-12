@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Interaction Design Demo</title>
+    
+    <style>
+        /* YOUR CSS GOES HERE */
+        #custom-cursor {
+            position: fixed;
+            pointer-events: none; 
+            z-index: 9999;        
+            width: 32px;          
+            height: auto;
+            display: none;        
+            /* Add this to center the image on the exact mouse tip */
+            transform: translate(-50%, -50%); 
+        }
+
+        .cursor-active {
+            display: block !important;
+        }
+
+        /* Optional: Making the button look professional */
+        #cursor-toggle {
+            padding: 10px 20px;
+            cursor: pointer;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            background: white;
+            font-family: sans-serif;
+        }
+    </style>
+</head>
+<body>
+
+    <img src="cursorarrow.png" id="custom-cursor" alt="Custom Cursor">
+
+    <h1>Project Showcase</h1>
+    <button id="cursor-toggle">Toggle Custom Cursor</button>
+
+    <script>
+        // YOUR JAVASCRIPT LOGIC (from our previous step) GOES HERE
+        const cursor = document.getElementById('custom-cursor');
+        const toggleBtn = document.getElementById('cursor-toggle');
+        let isEnhanced = false;
+
+        document.addEventListener('mousemove', (e) => {
+            if (isEnhanced) {
+                cursor.style.left = e.clientX + 'px';
+                cursor.style.top = e.clientY + 'px';
+            }
+        });
+
+        toggleBtn.addEventListener('click', () => {
+            isEnhanced = !isEnhanced;
+            if (isEnhanced) {
+                cursor.classList.add('cursor-active');
+                document.body.style.cursor = 'none';
+                toggleBtn.innerText = "Switch to System Cursor (Standard)";
+            } else {
+                cursor.classList.remove('cursor-active');
+                document.body.style.cursor = 'default';
+                toggleBtn.innerText = "Switch to Enhanced Cursor (Custom)";
+            }
+        });
+    </script>
+</body>
+</html>
