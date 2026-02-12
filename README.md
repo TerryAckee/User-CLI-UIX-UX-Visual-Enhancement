@@ -8,7 +8,7 @@
 
 
 ---
-![Triston_Delicema_UI_CLI_Interactive_Cursor](https://github.com/user-attachments/assets/70a6ef34-a9c1-4d91-862a-2c553eb424fe)
+
 
 ### 🧐 The "Why" 20 second Video Assessment with Audio
 
