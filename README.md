@@ -1,8 +1,10 @@
 
-<<<<<<< HEAD
-# User-CLI-UIX-UX-Mouse-Visual-Enhancement 
 
-(https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
+# User-CLI-UIX-UX-Mouse-Visual-Enhancement  
+                          (https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
+                          
+![Realtimepage](https://github.com/user-attachments/assets/d50e4fcf-b29d-4fee-bf7d-a088a87d3745)
+
 
 
 
@@ -14,7 +16,11 @@
 
 
 
-https://github.com/user-attachments/assets/1ad4639a-32c4-43ed-9c05-c4c657fa8dfc
+
+
+https://github.com/user-attachments/assets/1e67b540-797f-4328-9c43-2e94d3901368
+
+
 
 
 
