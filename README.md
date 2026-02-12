@@ -2,7 +2,7 @@
 <<<<<<< HEAD
 # User-CLI-UIX-UX-Mouse-Visual-Enhancement
 
-[🚀 View Live Demo](https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
+
 
 
 ---
