@@ -1,3 +1,4 @@
+![Triston_Delicema_UI_CLI_Interactive_Cursor](https://github.com/user-attachments/assets/70a6ef34-a9c1-4d91-862a-2c553eb424fe)
 
 ![Triston_Visual_Flavor_UI_Mod](https://github.com/user-attachments/assets/e0acc8d3-bb97-4476-b00e-5117346e9356)
 
@@ -39,7 +40,6 @@ Uploading Triston_Delice_Madetail_Secure_Serivces.mp4…
 
 
 
-https://github.com/user-attachments/assets/e33af0c8-7acd-4914-8c37-672007c9fb2b
 
 
 
