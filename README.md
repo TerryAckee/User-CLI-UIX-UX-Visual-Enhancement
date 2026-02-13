@@ -1,8 +1,7 @@
 
 
- [ClickHereForInteractiveBrowserButtonSampleNoDownload](https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
-# User-CLI-UIX-UX-Mouse-Visual-Modifier
-
+ [ClickHereForInteractiveBrowserButtonSampleNoDownloader!](https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
+### 🧐 Providing Safe Secure Service 
             
                           
  
@@ -23,11 +22,13 @@
 ---
 
 
-### 🧐 Promototes My Safe Secure Practice as a Provider! Video Assessment with Audio
 
 
 
 
+ ## Video Assessment with Audio # User-CLI-UIX-UX-Mouse-Visual-Modifier
+ Displaying transparency with Gif before hand to assuer user experience that it is safe
+ ## Promoting my Safe Service
 
 
 
