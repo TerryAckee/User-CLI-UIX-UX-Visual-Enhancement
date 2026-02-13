@@ -1,11 +1,13 @@
 [ Click here to try in your Broswer no download ](https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
 
+Displaying transparency with Gif before hand to assuer user experience that it is safe
 
 ![Triston_Visual_Flavor_UI_Mod](https://github.com/user-attachments/assets/e0acc8d3-bb97-4476-b00e-5117346e9356)
 
 
  
-### 🧐 Providing Safe Secure Service 
+### 🧐 Providing Safe Secure Service  ## Video Assessment with Audio # User-CLI-UIX-UX-Mouse-Visual-Modifier
+ 
 
 https://github.com/user-attachments/assets/625376bc-20e3-4d51-afec-ae84cb445514
                           
@@ -14,6 +16,7 @@ https://github.com/user-attachments/assets/625376bc-20e3-4d51-afec-ae84cb445514
 
 
 
+ ## Promoting Secure Service
 
 ### 🛠️ Key Professional Features:
 * **SECURE no download no risk TRIAL in browser** This shouts |- THIS IS TRUSTWORTHY -| by signaling [hey Try me Now Without DOwnloading Anything Right Here! No download in the browser!]*
@@ -37,9 +40,7 @@ https://github.com/user-attachments/assets/625376bc-20e3-4d51-afec-ae84cb445514
 
 
 
- ## Video Assessment with Audio # User-CLI-UIX-UX-Mouse-Visual-Modifier
- Displaying transparency with Gif before hand to assuer user experience that it is safe
- ## Promoting Secure Service
+
 
 
 
