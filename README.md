@@ -1,6 +1,6 @@
 [ Click here to try in your Broswer no download ](https://terryackee.github.io/CLI-User-Mouse-Modifying-Visual-UI/)
 
-Displaying transparency with Gif before hand to display the provided service is a secure safe no download accessible user experience by tring in gif recording for you first.
+Displaying Gif recording of me accessing the toggle button asset in my browser first to display the provided service is a secure safe no download required user experience! 
 
 ![Triston_Visual_Flavor_UI_Mod](https://github.com/user-attachments/assets/e0acc8d3-bb97-4476-b00e-5117346e9356)
 
